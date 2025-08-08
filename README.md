@@ -13,4 +13,3 @@ This **UI/UX prototype** was fully designed in **Figma**, focusing on a clean, m
 
 🚀 Your journey. Your way.
 
-\#TravelTech #FigmaDesign #UIUX #AppDesign #TravelPlanner #Tourism #TripMate
